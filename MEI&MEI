@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MEI&MEI</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<header>
+    <div class="header">
+        <a class="logo" href=""><img src="img/logo.jpg"></a>
+        <nav class="nav">
+            <ul class="nav_list" type="none">
+                <li><a href="">最新消息</a></li>
+                <li><a href="">關於我們</a></li>
+                <li><a href="">美味餐點</a></li>
+                <li><a href="">加盟資訊</a></li>
+                <li><a href="">門市據點</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+<body>
+    <main>
+        <img class="img_main_img" src="img/main_img.jpg" alt="main_img">
+        <h3 class="title">| 美味餐點 |</h3>
+        <div class="meals_five">
+            <div class="hambuger">
+                <img class="meals_hambuger" src="img/meals_hambuger.png" alt="hambuger">
+                <h4 class="box_hambuger"><p>漢堡 | hambuger</p><h4>
+                <p class="text_hambuger">豬排 | 雞排 | 牛排 | 燻雞 | 燒肉<br>花枝 | 鱈魚 | 蝦肉 | 總匯 | 杏鮑菇<br>泰式雞 | 香烤雞 | 卡拉雞</p>     
+            </div>
+            <div class="sandwich">
+                <img class="meals_sandwich" src="img/meals_sandwich.png" alt="sandwich">
+                <h4 class="box_sandwich"><p>三明治 | sandwich</p></h4>
+                <p class="text_sandwich">煎蛋 | 肉鬆 | 玉米 | 火腿 | 培根<br>鮪魚 | 豬排 | 雞排 | 牛排 | 杏鮑菇<br>燻雞 | 燒肉 | 總匯 | 卡拉雞</p>
+            </div>
+            <div class="quiche">
+                <img class="meals_quiche" src="img/meals_quiche.png" alt="quiche">
+                <h4 class="box_quiche"><p>蛋餅 | quiche</p></h4>
+                <p class="text_quiche">蔥油 | 肉鬆 | 玉米 | 火腿 | 培根<br>鮪魚 | 豬排 | 雞排 | 牛排 | 杏鮑菇<br>燻雞 | 燒肉</p>                
+            </div>
+            <div class="biscuits">
+                <img class="meals_biscuits" src="img/meals_biscuits.png" alt="biscuits">
+                <h4 class="box_biscuits"><p>燒餅 | biscuits</p></h4>
+                <p class="text_biscuits">蔥油 | 肉鬆 | 玉米 | 火腿 | 培根<br>鮪魚</p>                
+            </div>
+            <div class="jamtoast">
+                <img class="meals_jamtoast" src="img/meals_jamtoast.png" alt="jamtoast">
+                <h4 class="box_jamtoast"><p>果醬吐司 | jam toast</p></h4>
+                <p class="text_jamtoast">花生 | 奶油 | 椰香 | 草莓 | 巧克力<br>藍莓 | 芝麻</p>            
+            </div>
+        </div>
+        <div class="meals_three">
+            <div class="hotfood">
+                <img class="meals_hotfood" src="img/meals_hotfood.png" alt="hotfood">
+                <h4 class="box_hotfood"><p>熟食 | hot food</p></h4>
+                <p class="text_hotfood">玉米濃湯 | 香酥煎餃 | 一口水餃<br>港式蘿蔔糕 | 乳酪餅 | 胡椒鐵板麵</p>
+            </div>
+            <div class="friedfood">
+                <img class="meals_friedfood" src="img/meals_friedfood.png" alt="friedfood">
+                <h4 class="box_friedfood"><p>炸物 | fried food</p></h4>
+                <p class="text_friedfood">熱狗 | 薯條 | 薯餅 | 雞塊 | 雞柳條</p>
+            </div>
+            <div class="drink">
+                <img class="meals_drink" src="img/meals_drink.png" alt="drink">
+                <h4 class="box_drink"><p>飲料 | drink</p></h4>
+                <p class="text_drink">紅茶 | 綠茶 | 奶茶 | 巧克力 | 咖啡<br>麥芽 | 豆漿 | 牛奶 | 米漿 | 薏仁漿<br>柳橙汁 | 蔓越莓汁</p>
+            </div>
+            <div class="content">
+                <h4 class="add_food">| 美味加點 |</h4>
+                <div class="add_text">
+                    <p class="add_food_text">荷包蛋 | 起司 | 火腿 | 培根<br><br>豬排 | 雞排<br><br>西西里 | 大阪雞 | 起司豬<br><br>厚牛 | 韓式辣雞</p>
+                    <p class="add_food_price">10<br><br>25<br><br>35<br><br>45</p>
+                </div> 
+            </div>
+        </div>
+    </main>
+    <footer class="box_footer">
+        <div class="footer_content">
+            <img class="mei_footer" src="img/mei_footer.png" alt="mei_footer">
+            <div class="footer_text">
+                <div class="text1">美而美餐飲連鎖企業集團<br><br>地址 :  新北市三重區中興北街175巷18號</p></div>
+                <div class="text2">| TEL : 02-8511-0707</p></div>
+                <div class="text3">| FAX : 02-8511-0505</p></div>
+                <div class="text4">|  最新消息  |  關於美而美  |  美味餐點  |  加盟資訊  |   門市據點  | </p></div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
